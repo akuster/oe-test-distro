@@ -1,0 +1,40 @@
+[submodule "bitbake"]
+	path = bitbake
+	url = git://git.openembedded.org/bitbake
+	branch = master
+[submodule "openembedded-core"]
+	path = openembedded-core
+	url = git://git.openembedded.org/openembedded-core
+	branch = master
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+	branch = master
+[submodule "meta-security"]
+	path = meta-security
+	url = https://git.yoctoproject.org/git/meta-security
+	branch = master
+[submodule "meta-cgl"]
+	path = meta-cgl
+	url = https://git.yoctoproject.org/git/meta-cgl
+	branch = master
+[submodule "meta-openclovis"]
+	path = meta-openclovis
+	url = https://github.com/joaohf/meta-openclovis
+	branch = master
+[submodule "meta-cloud-services"]
+	path = meta-cloud-services
+	url = git://git.yoctoproject.org/meta-cloud-services
+	branch = master
+[submodule "meta-virtualization"]
+	path = meta-virtualization
+	url = git://git.yoctoproject.org/meta-virtualization
+	branch = master
+[submodule "meta-selinux"]
+	path = meta-selinux
+	url = git://git.yoctoproject.org/meta-selinux
+	branch = master
+[submodule "meta-qt3"]
+	path = meta-qt3
+	url = git://git.yoctoproject.org/meta-qt3
+	branch = master
